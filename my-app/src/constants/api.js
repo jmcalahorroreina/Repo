@@ -1,0 +1,1 @@
+export const URL_API = "http://localhost:52871/api/v1/vehicles";
